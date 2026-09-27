@@ -1,39 +1,62 @@
-<!-- ======================= HEADER ======================= -->
-
 <div align="center">
 
-# 👋 Hello, World!
+# Md Al Amin Hossain
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00AEEF&center=true&vCenter=true&width=650&lines=Md+Al+Amin+Hossain;Aspiring+Software+Engineer;Learning+Full-Stack+Development;Building+Real-World+Projects;Learning+%7C+Building+%7C+Improving" />
+### Software Engineer Intern · Full-Stack Developer in Progress
+
+Building practical web applications, learning every day, and turning ideas into working software.
 
 <br/>
 
+<a href="https://www.linkedin.com/in/mdalaminh271/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:mdalaminh.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 <a href="https://github.com/mdalaminhdev-web">
-  <img src="https://komarev.com/ghpvc/?username=mdalaminhdev-web&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://github.com/mdalaminhdev-web?tab=followers">
-  <img src="https://img.shields.io/github/followers/mdalaminhdev-web?label=Followers&style=flat" />
-</a>
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=mdalaminhdev-web&style=flat-square&color=0A66C2&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
-
-Hi! I'm **Md Al Amin Hossain**, an aspiring Software Engineer from Bangladesh 🇧🇩.
-
-I'm currently focused on building my foundation in **Full-Stack Web Development** and improving my problem-solving skills through hands-on projects.
-
-I enjoy turning ideas into working applications, debugging problems, learning new technologies, and continuously improving my development skills.
+## `01` — Who I Am
 
 ```js
-const alAmin = {
-    role: "Aspiring Software Engineer",
-    location: "Bangladesh 🇧🇩",
-    focus: "Full-Stack Web Development",
-    learning: ["JavaScript", "React", "Node.js", "Express.js", "MySQL"],
-    tools: ["Git", "GitHub", "VS Code", "Postman"],
-    mindset: "Learn → Build → Debug → Improve 🚀"
+const mdAlAmin = {
+  name: "Md Al Amin Hossain",
+  location: "Dhaka, Bangladesh",
+  currentRole: "Software Engineer Intern @ DataPulse Global",
+  direction: "Full-Stack / MERN Development",
+
+  education: {
+    degree: "BSc in Computer Science & Engineering",
+    university: "Ahsanullah University of Science and Technology",
+    period: "2021 - 2025"
+  },
+
+  currentlyLearning: [
+    "JavaScript",
+    "React.js",
+    "Node.js",
+    "Express.js",
+    "MySQL",
+    "MongoDB",
+    "REST APIs",
+    "Data Structures & Algorithms"
+  ],
+
+  mindset: [
+    "Learn",
+    "Build",
+    "Debug",
+    "Improve",
+    "Repeat"
+  ]
 };
